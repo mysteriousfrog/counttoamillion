@@ -1,4 +1,4 @@
-# counttoamillion
+# Count To A Million
 
 What are you doing here?!
 
